@@ -1,0 +1,3 @@
+[ 2017-01-07T17:28:49+08:00 ] 119.39.5.106 /alikorol/code/install.php?s=/Index/complete.html
+ERR: _STORAGE_WRITE_ERROR_:./Application/Install/Data/install.lock
+

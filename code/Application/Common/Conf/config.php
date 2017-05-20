@@ -19,7 +19,7 @@ return array(
     //'MODULE_ALLOW_LIST'  => array('Home','Admin'),
 
     /* 系统数据加密设置 */
-    'DATA_AUTH_KEY' => 'LmCx:2E+z[!kD"1N>U~3cB{f9WSqZt]Tl/V&PM|0', //默认数据加密KEY
+    'DATA_AUTH_KEY' => 'Pu!lEFTpeqHLj+?0fKGZxnsC^/(&Arog%M@Nw>Q6', //默认数据加密KEY
 
     /* 调试配置 */
     'SHOW_PAGE_TRACE' => true,
@@ -39,12 +39,12 @@ return array(
 
     /* 数据库配置 */
     'DB_TYPE'   => 'mysqli', // 数据库类型
-    'DB_HOST'   => '127.0.0.1', // 服务器地址
-    'DB_NAME'   => 'onethink', // 数据库名
+    'DB_HOST'   => '60.205.209.184', // 服务器地址
+    'DB_NAME'   => 'alikorol', // 数据库名
     'DB_USER'   => 'root', // 用户名
-    'DB_PWD'    => '',  // 密码
+    'DB_PWD'    => '123456',  // 密码
     'DB_PORT'   => '3306', // 端口
-    'DB_PREFIX' => 'onethink_', // 数据库表前缀
+    'DB_PREFIX' => 'alikorol_', // 数据库表前缀
 
     /* 文档模型配置 (文档模型核心配置，请勿更改) */
     'DOCUMENT_MODEL_TYPE' => array(2 => '主题', 1 => '目录', 3 => '段落'),
